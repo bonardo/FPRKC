@@ -2,5 +2,5 @@
 Demi menuntaskan FP RK C
 
 
-FOOD COST (Online Food Shop)
+FOOD KOST (Online Food Shop)
 
